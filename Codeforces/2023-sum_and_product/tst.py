@@ -1,0 +1,5 @@
+print(1)
+print(200000)
+print(' '.join(['1' for _ in range(200000)]))
+print(1)
+print(2, 1)
