@@ -11,7 +11,12 @@ As of 27 September 2023, I solve [Codeforces](https://codeforces.com/) tasks rat
 
 ## Progress
 Solved tasks count: **2**
-| Date       | Task                                                                          | Solution                                     |
-| :---:      | :---                                                                          | :---                                         |
-| 2023-09-27 | [Sum of XOR Functions](https://codeforces.com/problemset/problem/1879/D)      | [sum.cpp](sum_of_xor_functions/sum.cpp)      |
-| 2023-09-28 | [Mad City](https://codeforces.com/problemset/problem/1873/H)                  | [mad.cpp](mad_city/mad.cpp)                  |
+| Date       | Task                                                                           | Solution                                     |
+| :---:      | :---                                                                           | :---                                         |
+| 2023-09-27 | [Sum of XOR Functions](https://codeforces.com/problemset/problem/1879/D)       | [sum.cpp](sum_of_xor_functions/sum.cpp)      |
+| 2023-09-28 | [Mad City](https://codeforces.com/problemset/problem/1873/H)                   | [mad.cpp](mad_city/mad.cpp)                  |
+| Unsolved   | [Infinite Set](https://codeforces.com/problemset/problem/1635/D)               | Unsolved                                     |
+| Unsolved   | [Finding Zero](https://codeforces.com/problemset/problem/1634/D)               | Unsolved                                     |
+| Unsolved   | [New Year Concert](https://codeforces.com/problemset/problem/1632/D)           | Unsolved                                     |
+| Unsolved   | [Range and Partition](https://codeforces.com/problemset/problem/1630/B)        | Unsolved                                     |
+| Unsolved   | [Peculiar Movie Preferences](https://codeforces.com/problemset/problem/1628/B) | Unsolved                                     |
