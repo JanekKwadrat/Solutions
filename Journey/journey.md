@@ -10,7 +10,7 @@ I use C++17. I compile source codes with `g++ -o sth.bin sth.cpp -std=c++17 -O3 
 As of 27 September 2023, I solve [Codeforces](https://codeforces.com/) tasks rated [1700-2000](https://codeforces.com/problemset?tags=1700-2000).
 
 ## Progress
-Solved tasks count: **12**
+Solved tasks count: **13**
 | Date       | Task                                                                           | Solution                                      |
 | :---:      | :---                                                                           | :---:                                         |
 | 2023-09-27 | [Sum of XOR Functions](https://codeforces.com/problemset/problem/1879/D)       | [sum.cpp](sum_of_xor_functions/sum.cpp)       |
@@ -26,3 +26,4 @@ Solved tasks count: **12**
 | 2023-10-02 | [MinOr Tree](https://codeforces.com/problemset/problem/1624/G)                 | [min.cpp](minor_tree/min.cpp)                 |
 | 2023-10-02 | [Interacdive Problem](https://codeforces.com/problemset/problem/1624/F)        | [int.cpp](interacdive_problem/int.cpp)        |
 | 2023-10-03 | [Game on Sum (Easy Version)](https://codeforces.com/contest/1628/problem/D1)   | [gam-easy.cpp](game_on_sum/gam-easy.cpp)      |
+| 2023-10-03 | [Game on Sum (Hard Version)](https://codeforces.com/contest/1628/problem/D2)   | [gam-hard.cpp](game_on_sum/gam-hard.cpp)      |
